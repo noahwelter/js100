@@ -1,6 +1,7 @@
 # Exercises - Flow Control
 
-1. ```
+1.
+```
 false || (true && false); // false
 true || (1 + 2);  // true
 (1 + 2) || true;  // 3
@@ -19,14 +20,16 @@ false === (847 == '847'); // false
 
 3. See [even_or_odd.js](even_or_odd.js)
 
-4. ```
+4.
+```
    Product2
    Product3
    Product not found!
    111
    ```
 
-5. ```
+5.
+```
 if (foo()) {
   return 'bar';
 } else {
