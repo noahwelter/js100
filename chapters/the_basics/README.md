@@ -1,3 +1,5 @@
+# Exercises - The Basics
+
 1. `> 'Noah' + 'Welter'`
 
 2. ```
