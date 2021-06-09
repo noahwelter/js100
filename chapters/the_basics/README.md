@@ -31,14 +31,16 @@
    {foo: 'bar' } // Object
    ```
 
-4. `console.log('5' + 10);` // Logs '510' instead of 15 because the number 10 is coerced to a string before being concatenated to the string '5'.
+4. `console.log('5' + 10); // Logs '510' instead of 15 because the number 10 is coerced to a string before being concatenated to the string '5'.`
 
 5. ```
    > console.log(Number('5') + 10);
    = 15
    ```
 
-6. ``The value of 5 + 10 is ${Number('5') + 10}.`;`
+6. ```
+   `The value of 5 + 10 is ${Number('5') + 10}.`;
+   ```
 
 7. There will not be an error. Accessing an array element with an index that is greater than or equal to the length of the array will return undefined.
 
