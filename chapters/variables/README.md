@@ -1,6 +1,8 @@
-1. See greeter.js
+# Exercises - Variables
 
-2. See age.js
+1. See [greeter.js](greeter.js)
+
+2. See [age.js](greeter.js)
 
 3. An error will be thrown as foo is not defined outside of block.
 
