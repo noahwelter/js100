@@ -22,4 +22,4 @@
 
 9. See [negative_zero.js](negative_zero.js)
 
-10. `5` - `"5"` is coerced to a number. The increment is valid, but `y++` returns the originaal value, not the incremented value.
+10. `5` - `"5"` is coerced to a number. The increment is valid, but `y++` returns the original value, not the incremented value.
