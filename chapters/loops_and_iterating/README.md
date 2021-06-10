@@ -1,4 +1,4 @@
-# Exercises - Loops aand Iterating
+# Exercises - Loops and Iterating
 
 1. See [age.js](age.js)
 
