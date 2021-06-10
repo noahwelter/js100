@@ -8,7 +8,7 @@
    | array4 | 3 |
    | array5 | 101 |
 
-2. `myArray.forEach(num => {if(num % 2 === 0){console.log(num)}})`
+2. `myArray.forEach(num => {if(num % 2 === 0){console.log(num)}});`
 
 3. See [nested_arrays.js](nested_arrays.js)
 
@@ -18,7 +18,7 @@
 
 6. See [length_odd.js](length_odd.js)
 
-7. See[reduce_7.js](reduce_7.js)
+7. See [reduce_7.js](reduce_7.js)
 
 8. See [length_odd.js](length_odd.js)
 
