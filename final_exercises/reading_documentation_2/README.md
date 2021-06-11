@@ -40,7 +40,7 @@
 
 5. `Date.now()` returns the number of milliseconds elapsed since January 1, 1970 00:00:00 UTC.
 
-6. ```
+6. ```javascript
    today.getYear()  // returns the year of the given date, according to local time, minus 1900 (121 for 2021), function is deprecated.
    today.getFullYear()  // returns 2021
    ```
