@@ -64,8 +64,12 @@
    function extractLanguage(locale) {
      return locale.slice(0, 2);
    }
+   ```
 
 10. ```js
     function extractRegion(locale) {
       return locale.slice(3, 5);
     }
+    ```
+
+11. See [greetings.js](greetings.js). Code was modified to use the new object `greetList` in the function `greet` to store the various greetings. Function `greet` checks to see if the region exists. If yes, it will return the regional greeting. If no, it will return the default greeting for the associated language. This assumes that the input language exists in `greetList`.
